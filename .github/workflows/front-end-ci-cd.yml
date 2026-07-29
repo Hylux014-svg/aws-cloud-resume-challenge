@@ -21,4 +21,4 @@ jobs:
 
       - name: Sync to S3
         run: |
-          aws s3 sync ./html5up-strata s3://${{ secrets.AWS_S3_BUCKET }} --delete            # 你本地项目中静态网页文件存放的文件夹名称
+          aws s3 sync ./html5up-strata s3://${{ secrets.AWS_S3_BUCKET }} --delete
