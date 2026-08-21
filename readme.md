@@ -4,7 +4,7 @@ This repository contains the backend infrastructure and serverless implementatio
 
 The system implements an automated, secure, and cost-effective visitor counter service utilizing AWS serverless primitives, least-privilege access controls, and automated observability.
 
-![AWS Architecture Diagram](./infra/architecture-aws.dot_2.png)
+![AWS Architecture Diagram](infra/architecture-aws.dot.png)
 
 ---
 
